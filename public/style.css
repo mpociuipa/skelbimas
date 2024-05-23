@@ -1,0 +1,39 @@
+/* Minimalus CSS stilius Bootstrap pagrindu */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0 20px;
+}
+
+nav .nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 20px;
+}
